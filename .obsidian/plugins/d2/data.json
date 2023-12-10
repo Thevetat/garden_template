@@ -1,0 +1,10 @@
+{
+  "layoutEngine": "tala",
+  "debounce": 500,
+  "theme": 200,
+  "apiToken": "tstruct_eyJ2ZXJzaW9uIjoxLCJkYXRhIjp7InVzZXJJRCI6ODI1MTM3NzgwLCJ1c2VyRW1haWwiOiJrZXB0d2Fsa2luZ0Bwcm90b25tYWlsLmNvbSIsInRlYW1JRCI6MTk2NDc2MzkxNSwidGVhbU5hbWUiOiJrZXB0d2Fsa2luZ0Bwcm90b25tYWlsLmNvbSdzIHRlYW0iLCJyZW5ld2FsRGF0ZSI6IjIwMjMtMDktMTdUMDU6MDc6NDFaIiwiY3JlYXRlZEF0IjoiMjAyMy0wOC0yNVQyMDoyNDoxNy44MTk4NjYwNjVaIn0sInNpZ25hdHVyZSI6Ijhjdk9RWnV5L0dESlMwQ2E5U2hIb0FzRU1DYytBQnhXZnFMQ0VXL2Y5eGJydXRmZjkwOW15YjN6c3BPZ0tQcWNLMWFYSGdDU0xwSjg1VFpzYVZURUFnPT0ifQ==",
+  "d2Path": "/home/dean/.local/bin",
+  "pad": 100,
+  "sketch": true,
+  "containerHeight": 800
+}

@@ -1,0 +1,6 @@
+{
+  "titleTemplate": "{{vault}} - {{filepath}} - {{filename}}",
+  "titleTemplateEmpty": "{{vault}}",
+  "titleSeparator": " - ",
+  "delimStr": "~~"
+}

@@ -1,0 +1,6 @@
+- [ ] Read 10 pages of a book
+- [ ] Try 1 neetcode problem, watch video if i cant figure out within 15 min
+- [ ] Do 2 chapters in AWS certification
+- [ ] Listen to half hour of audio book
+- [ ] Meditate 5 minutes
+- [ ] Read 20 pages of TS manual

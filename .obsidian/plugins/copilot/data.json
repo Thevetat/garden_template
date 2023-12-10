@@ -1,0 +1,11 @@
+{
+  "openAiApiKey": "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",
+  "defaultModel": "gpt-3.5-turbo",
+  "temperature": "0.7",
+  "maxTokens": "1000",
+  "contextTurns": "3",
+  "useNotesAsContext": false,
+  "userSystemPrompt": "",
+  "stream": true,
+  "debug": false
+}

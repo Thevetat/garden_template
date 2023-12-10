@@ -1,0 +1,21 @@
+{
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "cssTheme": "remake",
+  "enabledCssSnippets": [
+    "test",
+    "front-matter-label-text-size",
+    "frontmatter",
+    "kanban",
+    "tiny_table",
+    "index",
+    "tiny_img",
+    "supercharged-links-gen"
+  ],
+  "translucency": false,
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "accentColor": "",
+  "nativeMenus": false
+}

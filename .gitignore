@@ -1,0 +1,10 @@
+.obsidian/cache
+.trash/
+.DS_Store
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace/*
+.vault-stats
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian.mobile
+
